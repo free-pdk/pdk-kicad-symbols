@@ -1,5 +1,5 @@
-# pdk-kicad-library
-KiCad Schematic Symbol Library for Padauk MCUs
+# pdk-kicad-symbols
+KiCad schematic symbol library for Padauk MCUs
 
 ### Usage
 Copy the Padauk.dcm and Padauk.lib files to your KiCad project's local library directory and add a Project Specific Library (Preferences -> Manage Symbol Libraries...) pointing to the Padauk.lib file.
